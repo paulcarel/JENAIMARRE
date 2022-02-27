@@ -1,6 +1,8 @@
 .container{
   width: 700;
   margin: 0 auto;
+  margin-top: -50;
+  margin-bottom: 500px
 }
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
